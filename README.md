@@ -1,2 +1,2 @@
 # smart-methods-training-IOT
-Robot control panel| لوحة تحكم بروبوت
+Robot control panel | لوحة تحكم بروبوت
